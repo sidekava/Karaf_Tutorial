@@ -1,0 +1,9 @@
+target
+.project
+.classpath
+.settings
+in
+generated/
+.DS_store
+/.metadata/
+.settings/*
